@@ -1,16 +1,33 @@
-## Hi there 👋
+Hi there 👋 I am Jerome Samuel-a Full‑Stack Developer from Chennai
 
-<!--
-**jerome1305/jerome1305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧰 Tech Skills  
+Python
+Java
+Full Stack
+Git Github
+AI/ML
 
-Here are some ideas to get you started:
+ 🔍 Featured Projects  
+[MULTIPLE DISEASE PREDICTION SYSTEM USING  
+MACHINE LEARNING](https://github.com/jerome1305/Mini-Project)- The integration with Streamlit, an open-source platform for creating web applications, will be a key aspect of our
+system. Streamlit simplifies the development of interactive and user-friendly interfaces for machine learning
+models. It allows for seamless integration of algorithms and data visualization, making it accessible to both
+technical and non-technical users.
+ 
+ 
+Certifications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Full Stack
+ AI/ML
+ Web Development
+ Clod Computing
+
+Work Experience
+   Cloud Computing Intern
+   AI/ML Intern
+
+    📫 Contact Me  
+[LinkedIn](https://www.linkedin.com/in/jerome-samuel-b27b62267/) 
+[Gmail](jerome88samuel@gmail.com)
+
+
